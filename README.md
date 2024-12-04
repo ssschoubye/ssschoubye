@@ -1,16 +1,21 @@
-## Hi there 👋
+## Welcome to my github 👋
 
-<!--
-**ssschoubye/ssschoubye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Software developer studying at DTU. 
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools I have used
+- **Languages:** C, C#, JavaScript, Java, Dart, SQL, F#
+- **Frameworks:** React, Node.js, Flutter
+- **Tools:** Git, Docker, Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+Trying to improve my web developing skills using Javascript and HTML
+
+
+## 📫 How to Reach Me
+- LinkedIn: https://www.linkedin.com/in/s%C3%B8ren-s-86b239135/
+- Email: ssschoubye@live.com
+
+
+
+
